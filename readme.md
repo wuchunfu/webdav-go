@@ -1,3 +1,7 @@
+### 致谢
+- webdav部分逻辑来自github.com/hacdias/webdav
+- 图形界面采用walk
+
 ### TLS证书
 - TLS_CERT = "C:\\nginx-1.18.0\\conf\\nolva.pem"
 
